@@ -1,0 +1,12 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Build
+build/
+
+# Secrets / configs
+*.xcconfig
+
